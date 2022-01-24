@@ -1,0 +1,15 @@
+{
+  "name": "imagepolice",
+  "version": "1.0.0",
+  "description": "An Image Policy Backend for Kubernetes Clusters",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cognideck",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2"
+  }
+}
